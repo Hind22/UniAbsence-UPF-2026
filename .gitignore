@@ -1,0 +1,13 @@
+﻿node_modules/
+dist/
+build/
+.env
+.env.*
+!.env.example
+.idea/
+*.log
+
+# Bases de donnees locales
+*.db
+*.db.*
+backend/data/justifications/

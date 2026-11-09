@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">UniAbsence</string>
+    <string name="title_activity_main">UniAbsence</string>
+    <string name="package_name">com.uniabsence.app</string>
+    <string name="custom_url_scheme">com.uniabsence.app</string>
+</resources>
